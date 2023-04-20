@@ -12,7 +12,6 @@ function setAttributes(element, attributes) {
     }
 }
 
-// Replace the apiUrl with the URL of your server's proxy route
 let count = 5;
 let apiUrl = `https://crisecheguren.com/api/unsplash?count=${count}`;
 
